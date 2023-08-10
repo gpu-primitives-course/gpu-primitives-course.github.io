@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'GPU Programming Primitives for Computer Graphics'
-theme = 'ananke'
+theme = 'beautifulhugo'
