@@ -1,11 +1,12 @@
 ---
 title: About Us
-subtitle: Introduction of the presentors
-date: 2023-03-20
+subtitle: Introduction to the presenters
+date: 2023-10-04
 tags: []
 ---
 ### Daniel Meister
-A great person.
+
+Daniel Meister is a researcher and software engineer at AMD. Before that, he was a postdoctoral researcher at the University of Tokyo under the mentorship of Prof. Toshiya Hachisuka and Prof. Nobuyuki Umetani. He received a Ph.D. degree advised by Prof. Jiri Bittner at the Czech Technical University in Prague. His research interests include real-time ray tracing, acceleration data structures, global illumination, GPGPU, and machine learning for rendering.
 
 ### Atsushi Yoshimura
 <!-- ![Scenario 1: Across columns](/img/Atsushi.png)
@@ -18,7 +19,8 @@ A great person.
 
 <!-- {{< figure src="/img/Atsushi.png">}} -->
 
-A great person.
+Atsushi Yoshimura is a software engineer and also a researcher at AMD. His career started as a software engineer in the field of installation and art. Although his bachelor's education was welfare taking advantage of computer science, his current interest is toward computer graphics, especially ray-traced global illumination even including deep-learning-based techniques for graphics. Currently, he develops Radeon ProRender and conducts related research.
 
-### ChihChen Kao
-A great person.
+### Chih-Chen Kao
+
+Chih-Chen Kao is a researcher and software engineer at AMD. Before that, he has been working on autonomous driving. He received his Ph.D. degree in Computer Science from National Taiwan University, Taipei, Taiwan, in 2017. His research interests include real-time ray tracing, physically based rendering, heterogeneous computing, and deep learning in computer graphics.
