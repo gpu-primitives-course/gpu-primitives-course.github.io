@@ -25,13 +25,25 @@ We are looking forward to seeing you at [SIGGRAPH Asia 2023](https://asia.siggra
 ## Presenters
 
 ### Daniel Meister
+{{<gallery caption-effect="fade" >}}
+{{<figure src="crs_114s2-auth2_pic_0.png" class="no-photoswipe">}}
+{{</gallery >}}
 
 Daniel Meister is a researcher and software engineer at AMD. Before that, he was a postdoctoral researcher at the University of Tokyo under the mentorship of Prof. Toshiya Hachisuka and Prof. Nobuyuki Umetani. He received a Ph.D. degree advised by Prof. Jiri Bittner at the Czech Technical University in Prague. His research interests include real-time ray tracing, acceleration data structures, global illumination, GPGPU, and machine learning for rendering.
 
 ### Atsushi Yoshimura
+
+{{<gallery caption-effect="fade" >}}
+{{<figure src="crs_114s2-auth2_pic_1.jpg" class="no-photoswipe">}}
+{{</gallery >}}
+
 Atsushi Yoshimura is a software engineer and also a researcher at AMD. His career started as a software engineer in the field of installation and art. Although his bachelor's education was welfare taking advantage of computer science, his current interest is toward computer graphics, especially ray-traced global illumination even including deep-learning-based techniques for graphics. Currently, he develops Radeon ProRender and conducts related research.
 
 ### Chih-Chen Kao
+
+{{<gallery caption-effect="fade" >}}
+{{<figure src="crs_114s2-auth2_pic_2.jpg" class="no-photoswipe">}}
+{{</gallery >}}
 
 Chih-Chen Kao is a researcher and software engineer at AMD. Before that, he has been working on autonomous driving. He received his Ph.D. degree in Computer Science from National Taiwan University, Taipei, Taiwan, in 2017. His research interests include real-time ray tracing, physically based rendering, heterogeneous computing, and deep learning in computer graphics.
 
