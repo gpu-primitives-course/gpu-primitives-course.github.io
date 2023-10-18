@@ -6,7 +6,7 @@ The course introduces programming primitives for parallel algorithms on GPUs for
 ## Course Materials
 - Course notes
 - Course slides
-- [Sample code](hhttps://github.com/amdadvtech/Orochi/tree/course/Course)
+- [Sample code](https://github.com/amdadvtech/Orochi/tree/course/Course)
 
 ## Course Content
 
