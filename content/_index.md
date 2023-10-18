@@ -17,11 +17,11 @@ The course introduces programming primitives for parallel algorithms on GPUs for
 - Radix sort
 - Code optimization
 
+## Presenters
+
 ### Daniel Meister
 
 Daniel Meister is a researcher and software engineer at AMD. Before that, he was a postdoctoral researcher at the University of Tokyo under the mentorship of Prof. Toshiya Hachisuka and Prof. Nobuyuki Umetani. He received a Ph.D. degree advised by Prof. Jiri Bittner at the Czech Technical University in Prague. His research interests include real-time ray tracing, acceleration data structures, global illumination, GPGPU, and machine learning for rendering.
-
-## Presenters
 
 ### Atsushi Yoshimura
 <!-- ![Scenario 1: Across columns](/img/Atsushi.png)
