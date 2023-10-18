@@ -39,4 +39,4 @@ Chih-Chen Kao is a researcher and software engineer at AMD. Before that, he has 
 
 ## Advanced Rendering Research Group
 {{<figure src="ARR.png" width="500px" class="no-photoswipe" link="https://gpuopen.com/advanced-rendering-research/">}}
-The presenters belong [**Advanced Rendering Research Group** (***ARR***)](https://gpuopen.com/advanced-rendering-research/) at [**AMD**](https://www.amd.com/en.html), which is working on research surrounding graphics and rendering. We look at current and future problems relating to CPU and GPU architectures. Please check our [publications](https://gpuopen.com/learn/publications/) if you are interested in.
+The presenters are from [**Advanced Rendering Research Group** (***ARR***)](https://gpuopen.com/advanced-rendering-research/) at [**AMD**](https://www.amd.com/en.html). They are working on research related to graphics and rendering for CPU and GPU architectures. For more details, please refer to our [publications](https://gpuopen.com/learn/publications/).
