@@ -16,11 +16,20 @@ The course introduces programming primitives for parallel algorithms on GPUs for
 - Radix sort
 - Code optimization
 
-{{<figure src="sa-course-slides.png" width="600px" class="no-photoswipe">}}
-
-## Attend the Course at SIGGRAPH Asia 2023
-The course will be held [Thursday, 14 at 9:00am-11:00am at Meeting Room C4.6, Level 4 (Convention Centre)](https://asia.siggraph.org/2023/presentation/?id=crs_114&sess=sess107).
-We are looking forward to seeing you at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/)!
+## Citation
+If you find the course usefule, please use the following BibTeX entry:
+```{bibtex}
+InProceedings{Meister2023,
+ author = {Daniel Meister and Atsushi Yoshimura and Chih-Chen Kao},
+ title = {GPU Programming Primitives for Computer Graphics},
+ booktitle = {ACM SIGGRAPH Asia 2023 Courses},
+ series = {SIGGRAPH Asia 2023},
+ year = {2023},
+ location = {Sydney, Australia},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+}
+```
 
 ## Presenters
 
@@ -52,3 +61,9 @@ Chih-Chen Kao is a researcher and software engineer at AMD. Before that, he has 
 ## Advanced Rendering Research Group
 {{<figure src="ARR.png" width="500px" class="no-photoswipe" link="https://gpuopen.com/advanced-rendering-research/">}}
 The presenters are from [**Advanced Rendering Research Group** (***ARR***)](https://gpuopen.com/advanced-rendering-research/) at [**AMD**](https://www.amd.com/en.html). They are working on research related to graphics and rendering for CPU and GPU architectures. For more details, please refer to our [publications](https://gpuopen.com/learn/publications/).
+
+## Attend the Course at SIGGRAPH Asia 2023
+The course will be held [Thursday, 14 at 9:00am-11:00am at Meeting Room C4.6, Level 4 (Convention Centre)](https://asia.siggraph.org/2023/presentation/?id=crs_114&sess=sess107).
+We are looking forward to seeing you at [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/)!
+
+{{<figure src="sa-course-slides.png" width="600px" class="no-photoswipe">}}
