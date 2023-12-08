@@ -18,7 +18,7 @@ The course introduces programming primitives for parallel algorithms on GPUs for
 
 ## Citation
 If you find the course usefule, please use the following BibTeX entry:
-```{bibtex}
+```
 InProceedings{Meister2023,
  author = {Daniel Meister and Atsushi Yoshimura and Chih-Chen Kao},
  title = {GPU Programming Primitives for Computer Graphics},
