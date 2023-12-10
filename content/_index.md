@@ -17,7 +17,7 @@ The course introduces programming primitives for parallel algorithms on GPUs for
 - Code optimization
 
 ## Citation
-If you find the course usefule, please use the following BibTeX entry:
+If you find the course useful, please use the following BibTeX entry:
 ```
 InProceedings{Meister2023,
  author = {Daniel Meister and Atsushi Yoshimura and Chih-Chen Kao},
