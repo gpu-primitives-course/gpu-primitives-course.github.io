@@ -59,7 +59,7 @@ Chih-Chen Kao is a researcher and software engineer at AMD. Before that, he has 
 <!-- `beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here. -->
 
 ## Contact Us
-Please Feel free to ask us any questions. You can send us emails to any of Daniel Meister (daniel.meister@amd.com), Atsushi Yoshimura (atsushi.yoshimura@amd.com), or Kao ChihChen (chihchen.kao@amd.com).
+Please feel free to ask us any questions. You can send us emails to any of Daniel Meister (daniel.meister@amd.com), Atsushi Yoshimura (atsushi.yoshimura@amd.com), or Kao ChihChen (chihchen.kao@amd.com).
 
 ## Advanced Rendering Research Group
 {{<figure src="ARR.png" width="500px" class="no-photoswipe" link="https://gpuopen.com/advanced-rendering-research/">}}
