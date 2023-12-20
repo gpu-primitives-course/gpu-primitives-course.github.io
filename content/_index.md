@@ -3,7 +3,7 @@
 The course introduces programming primitives for parallel algorithms on GPUs for a wide variety of applications in computer graphics. Various parallel algorithms can be decomposed into programming primitives that share similar patterns. This course focuses on studying these programming primitives and their applicability in computer graphics, specifically in the context of massively parallel processing on GPUs. The course begins by establishing a theoretical foundation, followed by practical examples and real-world applications. We explain two pivotal algorithms: parallel reduction and parallel prefix scan in detail, discussing their variants and different implementations. Afterward, we provide a collection of more advanced techniques and tricks applicable across various domains. At the end of the course, we also briefly discuss code optimization.
 
 ## Course Materials
-- [Course notes](sa-courses-notes.pdf)
+- [Course notes](sa-course-notes.pdf)
 - [Course slides](sa-course-slides.pptx)
 - [Sample code](https://github.com/amdadvtech/Orochi/tree/course/Course)
 
